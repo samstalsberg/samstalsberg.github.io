@@ -250,3 +250,8 @@ margin: 0px 5px 5px 0px;
 	margin-bottom: 5px;
 }
 
+aside {
+	float: right;
+	width: 200px;
+	margin-top: 50px;
+}
